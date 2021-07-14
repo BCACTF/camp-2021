@@ -1,4 +1,4 @@
-# BCACTF 2.0 Problems
+# CS Camp 2021 Problems
 
 - Remember to create a new branch
 - Copy the format of `chall.yaml` from `example/`
