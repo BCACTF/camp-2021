@@ -1,0 +1,15 @@
+name: caesar-salad
+categories:
+  - crypto
+value: 75
+flag: flag{u_r_a_decryption_master_fdsaefd}
+description: |-
+  I was eating lunch and somehow my super secret message fell into my salad, and now, its a mess of letters! Could you help me figure out my original message?
+hints:
+  - Maybe the message is encrypted somehow?
+  - What are some different types of ciphers?
+  - Online decryption tools are helpful! 
+authors:
+  - Yusuf
+visible: true
+# TODO: deployment
