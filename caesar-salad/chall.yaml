@@ -4,7 +4,7 @@ categories:
 value: 75
 flag: flag{u_r_a_decryption_master_fdsaefd}
 description: |-
-  I was eating lunch and somehow my super secret message fell into my salad, and now, its a mess of letters! Could you help me figure out my original message?
+  I was eating lunch and somehow my super secret message fell into my salad, and now, it's a mess of letters! Could you help me figure out my original message?
 hints:
   - Maybe the message is encrypted somehow?
   - What are some different types of ciphers?
