@@ -1,0 +1,13 @@
+name: Commentation
+categories:
+  - webex
+value: 50
+flag: flag{Gu3S5_y0U_f0UnD_th3_c0mm3nt_8$7^8h}
+description: |-
+  I was creating my new website when I seem to have misplaced my flag! I can't see it anywhere on the page, but I have a feeling you might be able to help! Can you find the flag for me?
+hints:
+  - Inspect element might be helpful here!
+authors:
+  - Yusuf
+visible: true
+# TODO: deployment
