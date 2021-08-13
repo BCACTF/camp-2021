@@ -1,0 +1,17 @@
+name: Cookie Clicker
+categories:
+  - webex
+value: 100
+flag:
+  file: ./dDa7iqNk95
+description: |-
+  Despite the challenge's name, this has nothing to do with web cookies, but it's just a Cookie Clicker game.
+  Just get 7,348,592,194,592,193 clicks to get the flag!
+  Good luck using an auto clicker on this, the cookie moves ;)
+hints:
+  - Can you see a website's JavaScript?
+  - Would looking at `script.js` help you?
+  - How can you modify the value of a variable?
+authors:
+  - Krish
+visible: true

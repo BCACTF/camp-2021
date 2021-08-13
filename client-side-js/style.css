@@ -1,0 +1,11 @@
+#cookieButton {
+    position: absolute;
+    top: 20em;
+}
+
+body {
+    position: relative;
+    text-align: center;
+    font-family: 'Verdana';
+    background-color: #b8c4fc;
+}
