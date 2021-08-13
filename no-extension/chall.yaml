@@ -11,7 +11,7 @@ hints:
   - What is a file extension? Does this file have one?
   - How do you add an extension to a file?
 files:
-  - src: chall
+  - src: ./chall
 authors:
   - Krish Arora
 visible: true
