@@ -10,7 +10,7 @@ hints:
   - Use an online calculator or tool to decrypt the message
   - Once you get the value of c, it won't be a text message, it will be numbers. Can you convert the decimal numbers into ASCII?
 files:
-  -src: ./chall.txt
+  -src: chall.txt
 authors:
   - Krish Arora
 visible: true
