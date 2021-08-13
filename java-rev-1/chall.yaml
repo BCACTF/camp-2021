@@ -1,0 +1,17 @@
+name: Java Rev 1
+categories:
+  - rev
+value: 50
+flag: flag{h0p3fU11y_n0_0n3_r34d5_tH15}
+description: |-
+  Welcome to my Super Secure Password Program™ made in Java. You can be assured the password is very safe, and no one will be able to find out what it is.
+  I hope.
+hints:
+  - Open the source Java file and just read it.
+  - You don't need to know Java to solve the problem.
+  - Read it more carefully
+files:
+  - src: ./JavaRev1.java
+authors:
+  - Krish Arora
+visible: true
