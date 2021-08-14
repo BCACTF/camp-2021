@@ -1,7 +1,7 @@
 name: Java Rev 2
 categories:
   - rev
-value: 100
+value: 75
 flag: flag{th15_0n3_sH0u1d_b3_B3tT3R}
 description: |-
   Okay, I've gotten several complaints that the Super Secure Password Program™ was not too Secure, so I decided to make a better version!
