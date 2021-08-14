@@ -1,0 +1,12 @@
+name: Different Perspectives
+categories:
+  - foren
+value: 50
+flag: flag{a-d1fF3renT-p3r5Pect1v3-aj823}
+description: |-
+  Getting the flag is as easy as viewing the file - just depends on the way you look at it.
+hints:
+  - Seems like this file isn't really a text file
+authors:
+  - Andrew
+visible: true
