@@ -4,7 +4,7 @@ categories:
 value: 50
 flag: flag{A_107_0f_0n35_4nD_z3R0s_j4Pz0q}
 description: |-
-  This looks like a bunch of one's and zero's, I have no idea what it means. Do you?
+  This looks like a bunch of ones and zeros, I have no idea what it means. Do you?
 hints:
   - What is binary?
   - Are you able to convert it to text?
