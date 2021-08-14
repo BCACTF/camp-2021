@@ -1,7 +1,7 @@
 name: Java Rev 1
 categories:
   - rev
-value: 50
+value: 25
 flag: flag{h0p3fU11y_n0_0n3_r34d5_tH15}
 description: |-
   Welcome to my Super Secure Password Program™ made in Java. You can be assured the password is very safe, and no one will be able to find out what it is.
