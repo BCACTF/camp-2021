@@ -1,0 +1,13 @@
+name: Alphabetic Rotation
+categories:
+  - crypto
+value: 50
+flag: flag{GueSstHisWasnTSecuReEnoUgh}
+description: |-
+  - I was writing this problem but all the keys on my keyboard were moved around. Help
+hints:
+  - This looks similar to the flag format, maybe the letters are just shifted?
+  - Look into substitution ciphers
+authors:
+  - Yusuf
+visible: true
