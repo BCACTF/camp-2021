@@ -1,0 +1,19 @@
+h5, h4, h2 {
+    text-align: center;
+}
+
+html, body, .input-container{
+    height: 100%;
+}
+
+body{
+    background-color: #686868;
+}
+
+#invalidmessage{
+    color: rgb(148, 0, 0);
+}
+
+.input-container {
+    outline: 2px black;
+}
