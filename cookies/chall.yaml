@@ -1,0 +1,13 @@
+name: Cookie Party
+categories:
+  - webex
+value: 125
+flag: flag{1_l1k3_ch0c0l473_ch1p_c00k135_yUm}
+description: |-
+  Welcome to the cookie party! In order to join, you have to bring chocolate chip cookies.
+hints:
+  - What are cookies on the web?
+  - Can you modify a website's cookies?
+authors:
+  - Krish
+visible: true
