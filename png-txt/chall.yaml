@@ -7,6 +7,8 @@ description: |-
   Getting the flag is as easy as viewing the file - just depends on the way you look at it.
 hints:
   - Seems like this file isn't really a text file
+files:
+  - src: ./png.txt
 authors:
   - Andrew
 visible: true
