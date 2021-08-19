@@ -8,17 +8,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     <script type="text/javascript" src="../server.js"></script>
     <title>Super Secure Security Page</title>
-
-    <style>
-        [name=wrong] {
-            color: rgb(185, 34, 34);
-        }
-
-        label{
-            color:black;
-        }
-    </style>
-
 </head>
 <body>
 <div class = "valign-wrapper input-container">
@@ -33,7 +22,7 @@
             {{/if}}</h4>
         </div>
         <div class = "row">
-            <form class = "input-field col s4 push-s4" method="POST" action="/" id = "UsernameInput">
+            <form class = "input-field col s4 push-s3" method="POST" action="/" id = "UsernameInput">
                 <div class = "row">
                     <input name="Username" id="Username" type="text" class="validate">
                     <label for="Username">Username</label>

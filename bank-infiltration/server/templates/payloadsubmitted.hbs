@@ -2,38 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="../css/styles.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     <script type="text/javascript" src="../server.js"></script>
     <title>Bank Statement Page</title>
-
-    <style>
-        body{
-            background-color: #686868;
-        }
-
-        .container{
-            max-width: 30%;
-            min-height: 50%;
-            background-color: aliceblue;
-        }
-
-        h4 {
-            text-align: center;
-        }
-
-        html, body, .main-container{
-            height: 100%;
-        }
-    </style>
-
 </head>
-
 <body>
-
-<div class = "valign-wrapper main-container" style="text-align: center;">
+<div class = "valign-wrapper main-container">
     <div class = "container">
         <div class = "row" id = "flyerwords">
             <h2>Bank Account</h4>
@@ -49,10 +26,9 @@
             <a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"><h6>Look into buying our new insurance policy at this link here!</h6></a>
         </div>
         <div class = "row">
-            <h6 style="text-align: center">Oh... here's your flag too</h6>
-            <p style="text-align: center">{{flag}}</p>
+            <h6>Oh... here's your flag too</h6>
+            <p>{{flag}}</p>
         </div>
-
     </div>
 </div>
 </body>
