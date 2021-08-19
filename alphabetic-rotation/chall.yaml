@@ -8,6 +8,8 @@ description: |-
 hints:
   - This looks similar to the flag format, maybe the letters are just shifted?
   - Look into substitution ciphers
+files:
+  - src: ./file.txt
 authors:
   - Yusuf
 visible: true
