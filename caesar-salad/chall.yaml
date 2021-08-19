@@ -9,7 +9,8 @@ hints:
   - Maybe the message is encrypted somehow?
   - What are some different types of ciphers?
   - Online decryption tools are helpful! 
+files:
+  - src: ./file.txt
 authors:
   - Yusuf
 visible: true
-# TODO: deployment
