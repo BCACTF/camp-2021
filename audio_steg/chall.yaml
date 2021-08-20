@@ -1,14 +1,14 @@
 name: Yusuf's Favorite Song
 categories:
-  - Foren
-value: 50
+  - foren
+value: 100
 flag: flag{never_gonna_give_you_up}
 description: |-
   My friend Yusuf sent me this audio file and told me it was his favorite song, but I know he doesn't like the artist so I'm
   guessing there's another meaning to what he sent. Can you help me figure it out?
 hints:
-  - if you haven't already, try downloading Audacity
-  - is there more than one way to view audio in Audacity?
+  - If you haven't already, try downloading Audacity
+  - Is there more than one way to view audio in Audacity?
 files:
   - src: ./flag.wav
 authors:
