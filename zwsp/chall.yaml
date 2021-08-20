@@ -1,0 +1,16 @@
+name: Zero Space
+category: 
+  - misc
+value: 75
+flag: flag{hidden_characters_go_brrr_91842}
+description: |-
+  Welcome to Zsofia's WebSite it's Pretty cool (bruh I'm bad at making names sorry)!! It's not quite finished, but I've hidden something in here... can you find it?
+hints:
+  - Huh, why are those letters capitalized randomly in the name of my website? 
+  - You might want to find an online translator.
+authors:
+  - Zsofia Gordon
+visible: false
+#TODO: deployment 
+
+
