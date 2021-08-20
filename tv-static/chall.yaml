@@ -1,0 +1,17 @@
+name: TV Static
+categories:
+  - crypto
+value: 100
+flag: flag{3ncryption_m4st3r}
+description: |-
+  I turned on my TV earlier today and it showed me a bunch of static. I noticed it kept showing something resembling a flag whenever two of these screens were about to switch and overlapped though. Could you try to get the flag out for me?
+hints:
+  - Look into visual cryptography
+  - Maybe try laying the two provided images over eachother online?
+  - Make sure to try out different transparencies! 
+files:
+  - src: ./ciphered.png
+  - src: ./secret.png
+authors:
+  - Yusuf
+visible: true
