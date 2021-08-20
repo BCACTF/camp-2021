@@ -1,5 +1,6 @@
 name: Yusuf's Favorite Song
-categories: Foren
+categories:
+  - Foren
 value: 50
 flag: flag{never_gonna_give_you_up}
 description: |-
@@ -10,7 +11,6 @@ hints:
   - is there more than one way to view audio in Audacity?
 files:
   - src: ./flag.wav
-  - name: message.wav
 authors:
   - Zsofia Gordon
 visible: false
