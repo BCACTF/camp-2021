@@ -1,5 +1,5 @@
 name: Yusuf's Favorite Song
-category: Foren
+categories: Foren
 value: 50
 flag: flag{never_gonna_give_you_up}
 description: |-
@@ -9,7 +9,7 @@ hints:
   - if you haven't already, try downloading Audacity
   - is there more than one way to view audio in Audacity?
 files:
-  - src: flag.wav
+  - src: ./flag.wav
   - name: message.wav
 authors:
   - Zsofia Gordon
