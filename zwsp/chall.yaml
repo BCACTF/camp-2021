@@ -1,5 +1,5 @@
 name: Zero Space
-category: 
+categories: 
   - misc
 value: 75
 flag: flag{hidden_characters_go_brrr_91842}
