@@ -10,7 +10,8 @@ hints:
   - If you haven't already, try downloading Audacity
   - Is there more than one way to view audio in Audacity?
 files:
-  - src: ./flag.wav
+  - src: ./stegflag.wav
+  - name: flag.wav
 authors:
   - Zsofia Gordon
 visible: false
