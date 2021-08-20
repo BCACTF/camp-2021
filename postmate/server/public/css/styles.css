@@ -1,3 +1,21 @@
 h1, h2 {
     text-align: center;
 }
+
+a {
+    color: #F64C72;
+}
+
+body, html {
+    height: 100%;
+    color: white;
+}
+
+h1 {
+    padding-top: 10%;
+    padding-bottom: 5%;
+    color: #F64C72;
+}
+body {
+    background-color: #2F2FA2;
+}
