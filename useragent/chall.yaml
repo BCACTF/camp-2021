@@ -1,0 +1,18 @@
+name: ctfbrowser
+categories:
+   - webex
+value: 75
+flag: flag{i_asked_anli_for_a_flag_and_all_i_got_was_this}
+description: |-
+  Welcome to the CAMPCTF flag storage vault. Members of the CAMPCTF organization
+  can access flags by visiting the official website using the CAMPCTF browser, which
+  is called 'ctfbrowser'. I'm not a member of the organization myself, but I just have 
+  to get my hands on one of those flags. Could you help me out?
+hints:
+  - Can websites tell what browser you're using?
+authors:
+  - Zsofia Gordon
+visible: false
+#TODO: deployment 
+
+
