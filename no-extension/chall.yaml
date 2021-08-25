@@ -1,0 +1,17 @@
+name: No Extension
+categories:
+  - foren
+value: 25
+flag:
+  file: ./chall
+description: |-
+  My friend sent me this file, but I have no idea how to open it!
+  Usually text files open with Notepad, but not this one. Can you help me?
+hints:
+  - What is a file extension? Does this file have one?
+  - How do you add an extension to a file?
+files:
+  - src: ./chall
+authors:
+  - Krish
+visible: true
