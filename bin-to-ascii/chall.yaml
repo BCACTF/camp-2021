@@ -4,7 +4,10 @@ categories:
 value: 50
 flag: flag{A_107_0f_0n35_4nD_z3R0s_j4Pz0q}
 description: |-
-  This looks like a bunch of ones and zeros, I have no idea what it means. Do you?
+  Someone sent me this text file, and it's just a bunch of ones and zeros.
+  To me it looks like they were just pressing random keys, I've never seen anything like it before.
+  Wait actually on second thought, it reminds me of those hacker scenes in movies with the green zeros and ones on the black background.
+  Can you be a master hackers from the movies and decrypt this message?
 hints:
   - What is binary?
   - Are you able to convert it to text?
