@@ -13,4 +13,7 @@ hints:
 authors:
   - Yusuf
 visible: true
-# TODO: deployment
+deploy:
+  web:
+    build: .
+    expose: 54321
