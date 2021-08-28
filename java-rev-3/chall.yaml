@@ -1,0 +1,17 @@
+name: Java Rev 3
+categories:
+  - rev
+value: 125
+flag: flag{5uP3r_53CuR3_p455w0rD_cH3cK3R}
+description: |-
+  Okay, I admit Super Secure Password Program 2.0™ wasn't too good, but nothing will beat...
+  Super Secure Password Program 3.0™
+  This is the last one, because after getting sued since "I'm not allowed to put the trademark symbol wherever I like", I've run out of money and time to make a new one.
+hints:
+  - Can you run part of the code "in reverse"?
+  - Can you convert the list of numbers back into letters?
+files:
+  - src: ./JavaRev3.java
+authors:
+  - Krish
+visible: true
