@@ -13,5 +13,8 @@ files:
   - src: server/server.js
 authors:
   - Yusuf
+deploy:
+  web:
+    build: .
+    expose: 54321
 visible: true
-# TODO: deployment

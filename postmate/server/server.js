@@ -22,7 +22,7 @@ app.get('/', (req, res) => {
 });
 
 app.post('/', (req, res) => {
-    res.sendFile(path.join(__dirname, "flag.txt"));
+    res.sendFile(path.join(__dirname, "flag.html"));
 });
 
 const server = http.createServer(app);
