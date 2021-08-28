@@ -1,0 +1,20 @@
+name: Zsofia's Food Delivery Service
+categories:
+  - webex
+value: 150
+flag: flag{th3_b3St_d3L1v3rY_s3Rv1c3_4r0und}
+description: |-
+  - I heard really good things about Zsofia's Food Delivery Service, but people always told me only the best hackers could order from there. When I got on, I didn't know how to send in an order. Could you help me?
+hints:
+  - How do websites send and receive data?
+  - What type of request sends data to the server to update or create a resource?
+  - How can you send one of these requests?
+files:
+  - src: server/server.js
+authors:
+  - Yusuf
+deploy:
+  web:
+    build: .
+    expose: 54321
+visible: true

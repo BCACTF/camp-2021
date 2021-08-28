@@ -1,0 +1,23 @@
+h1, h2 {
+    text-align: center;
+}
+
+a, span {
+    color: #F64C72;
+}
+
+body, html {
+    height: 100%;
+    color: white;
+}
+
+h1 {
+    padding-top: 10%;
+    padding-bottom: 5%;
+    color: #F64C72;
+}
+body {
+    background-color: #2F2FA2;
+}
+
+/* I wonder what this could be! https://www.w3schools.com/tags/ref_httpmethods.asp */
