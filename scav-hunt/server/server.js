@@ -25,12 +25,11 @@ app.get("/bash", function (request,response){
     response.send(site4)
 });
 
-app.get("/htaccess", function (request,response){
+app.get("/.htaccess", function (request,response){
     response.send(site5)
 });
 
-app.get("/bash")
-app.use(express.static(path.join(__dirname,"public")));
+
 
 app.listen(6969);
 console.log("Listening on http://localhost:6969");
