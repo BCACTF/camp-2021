@@ -1,0 +1,37 @@
+h6, h5, h4, h2, p, .main-container {
+    text-align: center;
+}
+
+html, body, .input-container, .main-container{
+    height: 100%;
+}
+
+body{
+    background-color: #e7e7e7;
+}
+
+#UsernameInput {
+    width: 50%;
+}
+
+#invalidmessage{
+    color: rgb(148, 0, 0);
+}
+
+.input-container {
+    outline: 2px black;
+}
+
+.container{
+    max-width: 30%;
+    min-height: 50%;
+    background-color: aliceblue;
+}
+
+[name=wrong] {
+    color: rgb(185, 34, 34);
+}
+
+label{
+    color:black;
+}
