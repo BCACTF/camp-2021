@@ -25,7 +25,7 @@ app.get("/bash", function (request,response){
     response.send(site4)
 });
 
-app.get("/htaccess", function (request,response){
+app.get("/.htaccess", function (request,response){
     response.send(site5)
 });
 
