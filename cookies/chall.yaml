@@ -10,4 +10,8 @@ hints:
   - Can you modify a website's cookies?
 authors:
   - Krish
+deploy:
+  web:
+    build: .
+    expose: 4200
 visible: true
