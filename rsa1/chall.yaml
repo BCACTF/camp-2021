@@ -1,0 +1,18 @@
+name: RSA
+categories:
+  - crypto
+value: 100
+flag: flag{0N70_p4R7_2}
+description: |-
+  Hey, you! We've intercepted a message, but we're unable to decode it.
+  I've been hearing around from other people that you're a master decoder!
+  We've recived the "public key", "private key", and the message, but I have no idea what any of that means.
+  Can you help us?
+hints:
+  - What is RSA?
+  - When you solve the problem, you will have a long number. Can you convert it to ASCII?
+files:
+  - src: ./chall.txt
+authors:
+  - Krish
+visible: true
