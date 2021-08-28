@@ -1,0 +1,16 @@
+name: ScavengURL Hunt
+categories:
+   - misc
+value: 75
+flag: flag{7R1V1A_m4573er_857592}
+description: |-
+  Welcome to my website. It's currently unfinished; absolutely nothing to see here...
+hints:
+  - Use Google. 
+  - Flag credits to Krish thank you Krish
+authors:
+  - Zsofia Gordon
+visible: false
+#TODO: deployment 
+
+
