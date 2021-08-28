@@ -4,11 +4,12 @@ categories:
 value: 150
 flag: flag{th3_vaUlt_h4S_b33N_0P3n3d_4fhie3}
 description: |-
-  - Hey! I heard you were a super smart hacker! I've been looking to infiltrate this bank account to access the money inside, but I can't seem to get past the login page!
+  - Hey! I heard you were a super smart hacker! I've been looking to infiltrate this bank located near **S**outhern **Q**uebec's **L**ibrary to access the money inside, but I can't seem to get past the login page!
   - Surely this shouldn't be a problem for you! Can you help me login?
 hints:
-  - What are some of the most common website vulnerabilities?
   - What can you do involving the input fields that would get you past the verification?
+  - Look into SQL Injections!
+  - You can't solve this using inspect element.
 authors:
   - Yusuf
 visible: true
