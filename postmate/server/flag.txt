@@ -1,0 +1,2 @@
+<h1>Your order has been accepted!</h1>
+<p>flag{th3_b3St_d3L1v3rY_s3Rv1c3_4r0und}</p>

@@ -2,6 +2,7 @@ const http = require('http');
 const express = require('express');
 const path = require('path');
 const logger = require('morgan');
+
 const PORT = 54321;
 
 //Create 'app' - handler for http requests
@@ -21,8 +22,7 @@ app.get('/', (req, res) => {
 });
 
 app.post('/', (req, res) => {
-    res.send("<h1>Your order has been accepted!</h1>"
-          + "<p>flag{th3_b3St_d3L1v3rY_s3Rv1c3_4r0und}</p>");
+    res.sendFile(path.join(__dirname, "flag.txt"));
 });
 
 const server = http.createServer(app);
