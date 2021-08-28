@@ -2,7 +2,7 @@ name: RSA 2
 categories:
   - crypto
 value: 150
-flag:
+flag: flag{rSa_m4573R}
 description: |-
   Oh, you're back. Perfect timing too, we just intercepted a second message. Can you help us with this one too?
   This time we didn't get a public or private keys, but a couple of numbers.
