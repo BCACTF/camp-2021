@@ -1,0 +1,19 @@
+name: TV Static
+categories:
+  - crypto
+  - foren
+value: 100
+flag: flag{3ncryption_m4st3r}
+description: |-
+  I turned on my TV earlier today and it showed me a bunch of static. I noticed it kept showing something resembling a flag whenever it cycled between two of the frames.
+  I think it might have to do with them being layered on top of eachother! I extracted the two images from the TV, but I have no way of putting the images over eachother. Could you try to get the flag out for me?
+hints:
+  - Look into visual cryptography
+  - Maybe try laying the two provided images over eachother online?
+  - Make sure to try out different transparencies! 
+files:
+  - src: ./ciphered.png
+  - src: ./secret.png
+authors:
+  - Yusuf
+visible: true
