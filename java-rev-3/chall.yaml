@@ -9,6 +9,7 @@ description: |-
   This is the last one, because after getting sued since "I'm not allowed to put the trademark symbol wherever I like", I've run out of money and time to make a new one.
 hints:
   - Can you run part of the code "in reverse"?
+  - Can you convert the list of numbers back into letters?
 files:
   - src: ./JavaRev3.java
 authors:
