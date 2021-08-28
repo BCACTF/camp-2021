@@ -1,0 +1,16 @@
+name: Alphabetic Rotation
+categories:
+  - crypto
+value: 75
+flag: flag{so_you_figuRed_OuT_how_to_decrypt_13jfkdsl}
+description: |-
+  - I was writing this problem but all the keys on my keyboard were moved around. Help
+hints:
+  - This looks similar to the intended flag format, maybe the letters are just shifted?
+  - Look into substitution ciphers that involve moving all the letters up and down by a certain key value
+  - Is this a special case of the Caesar Cipher?
+files:
+  - src: ./file.txt
+authors:
+  - Yusuf
+visible: true
