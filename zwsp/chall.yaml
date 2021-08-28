@@ -1,6 +1,7 @@
 name: Zero Space
 categories: 
   - misc
+  - foren
 value: 75
 flag: flag{hidden_characters_go_brrr_91842}
 description: |-
