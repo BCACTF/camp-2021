@@ -14,8 +14,12 @@
         <h1>Sorry, you're not allowed in.</h1>
         <h2>Looks like you didn't bring the right cookies.</h2>
         <h2>Make sure to bring <code>chocolate-chip</code> cookies!</h2>
+        <h2>You brought <code id="cookiesBrought"></code></h2>
         <a href="/"><button>Home</button></a>
     </div>
 </body>
+<script>
+    document.getElementById("cookiesBrought").innerHTML = document.cookie.replace(/[<>]/g, '').split('=')[1];
+</script>
 
 </html>
