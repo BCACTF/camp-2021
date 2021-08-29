@@ -10,7 +10,7 @@ hints:
   - Flag credits to Krish thank you Krish
 authors:
   - Zsofia Gordon
-visible: false
+visible: true
 deploy:
   web:
     build: .

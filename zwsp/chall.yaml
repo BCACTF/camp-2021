@@ -11,7 +11,7 @@ hints:
   - You might want to find an online translator.
 authors:
   - Zsofia Gordon
-visible: false
+visible: true
 deploy:
   web:
     build: .

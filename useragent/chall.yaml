@@ -12,7 +12,7 @@ hints:
   - Can websites tell what browser you're using?
 authors:
   - Zsofia Gordon
-visible: false
+visible: true
 deploy:
   web:
     build: .

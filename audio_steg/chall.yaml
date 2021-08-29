@@ -13,7 +13,4 @@ files:
   - src: ./flag.wav
 authors:
   - Zsofia Gordon
-visible: false
-#TODO: deployment 
-
-
+visible: true
