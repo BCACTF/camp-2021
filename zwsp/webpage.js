@@ -5,7 +5,6 @@ const path = require("path");
 const app = express();
 
 app.get("/",function (request,response){
-    const agent = request.get("User-Agent");
     var userthing;
 
         userthing = `<!DOCTYPE html>
@@ -30,7 +29,3 @@ app.use(express.static(path.join(__dirname,"public")));
 
 app.listen(1234);
 console.log("Listening on http://localhost:1234");
-
-
-
-
