@@ -6,14 +6,13 @@ flag: flag{rSa_m4573R}
 description: |-
   Oh, you're back. Perfect timing too, we just intercepted a second message. Can you help us with this one too?
   This time we didn't get a public or private keys, but a couple of numbers.
-  Unfortunatley we weren't able to get both primes, one of them was lost in transmission.
+  Unfortunately we weren't able to get both primes, one of them was lost in transmission.
   This should be enough information to crack the code, your help would be greatly appreciated.
   Note, wrap your flag with `flag{}`. If you get `xyz`, submit `flag{xyz}`
 
 hints:
   - Can you calculate the value of q from n and p?
   - Are there online tools to help you solve RSA ciphers?
-  - Once you get the answer, it won't be a text message, it will be numbers. Can you convert the decimal numbers into ASCII?
 files:
   - src: ./chall.txt
 authors:
