@@ -12,6 +12,7 @@ hints:
 authors:
   - Zsofia Gordon
 visible: false
-#TODO: deployment 
-
-
+deploy:
+  web:
+    build: .
+    expose: 1234
