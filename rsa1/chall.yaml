@@ -10,7 +10,7 @@ description: |-
   Can you help us?
 hints:
   - What is RSA?
-  - When you solve the problem, you will have a long number. Can you convert it to ASCII?
+  - Once you get the answer, it won't be a text message, it will be numbers. Can you convert the decimal numbers into ASCII?
 files:
   - src: ./chall.txt
 authors:
