@@ -10,7 +10,8 @@ description: |-
   Can you be a master hackers from the movies and decrypt this message?
 hints:
   - What is binary?
-  - Are you able to convert it to text?
+  - What is ASCII?
+  - Are you able to convert one to the other?
 files:
   - src: ./chall.txt
 authors:
