@@ -1,7 +1,7 @@
 name: ctfbrowser
 categories:
    - webex
-value: 75
+value: 100
 flag: flag{i_asked_anli_for_a_flag_and_all_i_got_was_this}
 description: |-
   Welcome to the CAMPCTF flag storage vault. Members of the CAMPCTF organization

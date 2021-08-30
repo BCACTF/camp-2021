@@ -1,7 +1,7 @@
 name: RSA
 categories:
   - crypto
-value: 100
+value: 125
 flag: flag{0N70_p4R7_2}
 description: |-
   Hey, you! We've intercepted a message, but we're unable to decode it.

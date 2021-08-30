@@ -1,7 +1,7 @@
 name: No Extension
 categories:
   - foren
-value: 25
+value: 50
 flag:
   file: ./chall
 description: |-

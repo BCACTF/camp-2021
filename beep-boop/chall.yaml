@@ -1,13 +1,13 @@
 name: Beep Boop
 categories:
   - crypto
-value: 50
+value: 75
 flag: flag{C4N_YOU_SP3AK_M0RSE?_XA89J3F} # capitals because morse is only in capitals
 description: |-
-  - A friend of mine sent me this file, saying it was important, but I have no idea what it is
-  - Can you figure out what it means?
-  -
-  - Remember, the flag format is flag{...}
+  A friend of mine sent me this file, saying it was important, but I have no idea what it is
+  Can you figure out what it means?
+  
+  Remember, the flag format is flag{...}
 files:
   - src: ./file.txt
 hints:

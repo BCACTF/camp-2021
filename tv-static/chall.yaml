@@ -2,7 +2,7 @@ name: TV Static
 categories:
   - crypto
   - foren
-value: 100
+value: 125
 flag: flag{3ncryption_m4st3r}
 description: |-
   I turned on my TV earlier today and it showed me a bunch of static. I noticed it kept showing something resembling a flag whenever it cycled between two of the frames.

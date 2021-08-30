@@ -1,7 +1,7 @@
 name: Bank Infiltration
 categories:
   - webex
-value: 150
+value: 125
 flag: flag{th3_vaUlt_h4S_b33N_0P3n3d_4fhie3}
 description: |-
   - Hey! I heard you were a super smart hacker! I've been looking to infiltrate this bank located near **S**outhern **Q**uebec's **L**ibrary to access the money inside, but I can't seem to get past the login page!
